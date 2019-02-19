@@ -4,7 +4,7 @@
 
 Utilizando HTML+CSS resuelva los siguientes problemas
 
-# Problema 1 Factura
+# Problema 1 Factura (3.5 puntos)
 
 Se requiere desarrollar un programa que permita administrar las facturas de una empresa. Escribir la clase Factura que podría servir para este proyecto. Además de los métodos y atributos que se requieren para esta clase deberá incluir los siguientes:
 
@@ -20,7 +20,7 @@ Se requiere desarrollar un programa que permita administrar las facturas de una 
 - Método de acceso de escritura para el atributo número de Factura
 - Método para imprimir todos los detalles de la Factura
 
-# Problema 2 Paciente
+# Problema 2 Paciente (3.5 puntos)
 
 Se requiere desarrollar un programa que permita llevar el seguimiento de los pacientes de un hospital. Programar la clase Paciente que podría servir para este proyecto. Además de los métodos y atributos que se requieren para esta clase deberá incluir los siguientes:
 
@@ -36,7 +36,7 @@ Se requiere desarrollar un programa que permita llevar el seguimiento de los pac
 - Métodos de escritura para los atributos: Fecha de nacimiento, estatura del paciente y peso del paciente
 - Método que imprima toda la información del paciente
 
-# Problema 3 Casa
+# Problema 3 Casa (3 puntos)
 
 Se quiere desarrollar un sistema para administrar las casas que tiene en venta una empresa inmobiliaria. Programar la clase Casa que podría servir para este proyecto. Además de los métodos y atributos que se requieren para esta clase deberá incluir los siguientes:
 
